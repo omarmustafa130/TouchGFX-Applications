@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/Core/Src/freertos.c:91:6:vApplicationIdleHook	4	static
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/Core/Src/freertos.c:106:6:vApplicationStackOverflowHook	16	static
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/Core/Src/freertos.c:119:6:MX_FREERTOS_Init	8	static
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/Core/Src/freertos.c:167:6:StartDefaultTask	96	static

@@ -1,0 +1,5 @@
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/TouchGFX/target/TouchGFXGPIO.cpp:45:6:static void touchgfx::GPIO::init()	1
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/TouchGFX/target/TouchGFXGPIO.cpp:53:6:static void touchgfx::GPIO::set(GPIO_ID)	2
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/TouchGFX/target/TouchGFXGPIO.cpp:83:6:static void touchgfx::GPIO::clear(GPIO_ID)	2
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/TouchGFX/target/TouchGFXGPIO.cpp:113:6:static void touchgfx::GPIO::toggle(GPIO_ID)	2
+C:/TouchGFXProjects/GPIO_FreeRTOS/CM7/TouchGFX/target/TouchGFXGPIO.cpp:143:6:static bool touchgfx::GPIO::get(GPIO_ID)	1

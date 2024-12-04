@@ -1,0 +1,4 @@
+dsihost.c:27:6:BSP_LCD_Reset	48	static
+dsihost.c:51:6:MX_DSIHOST_DSI_Init	208	static
+dsihost.c:189:6:HAL_DSI_MspInit	208	static
+dsihost.c:216:6:HAL_DSI_MspDeInit	0	static

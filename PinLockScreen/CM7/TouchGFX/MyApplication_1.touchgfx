@@ -1,0 +1,802 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "lockscreen",
+        "Components": [
+          {
+            "Type": "SwipeContainer",
+            "Name": "swipeContainer1",
+            "Width": 1024,
+            "Height": 600,
+            "LockPosition": true,
+            "SwipeCutoff": 50,
+            "IndicatorImageNormal": "__designer\\Blue_PageIndicator_dot_indicator_small_normal.png",
+            "IndicatorImageHighlight": "__designer\\Blue_PageIndicator_dot_indicator_small_highlight.png",
+            "EndSwipeElasticWidth": 50,
+            "SelectedPage": "swipeContainer1Page1",
+            "Style": "Style1",
+            "Components": [
+              {
+                "Type": "Container",
+                "Name": "swipeContainer1Page2",
+                "Width": 1024,
+                "Height": 600,
+                "Components": [
+                  {
+                    "Type": "Image",
+                    "Name": "Image1",
+                    "Width": 1024,
+                    "Height": 600,
+                    "LockPosition": true,
+                    "RelativeFilename": "thumb-1920-343973.png",
+                    "Alpha": 122
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_ent",
+                    "X": 619,
+                    "Y": 429,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "ent",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_clr",
+                    "X": 335,
+                    "Y": 429,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "clr",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_0",
+                    "X": 480,
+                    "Y": 429,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "0",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_9",
+                    "X": 619,
+                    "Y": 351,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "9",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_8",
+                    "X": 480,
+                    "Y": 351,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "8",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_7",
+                    "X": 335,
+                    "Y": 351,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "7",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_6",
+                    "X": 619,
+                    "Y": 273,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "6",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_5",
+                    "X": 480,
+                    "Y": 273,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "5",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_4",
+                    "X": 335,
+                    "Y": 273,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "4",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_3",
+                    "X": 619,
+                    "Y": 195,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "3",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_2",
+                    "X": 480,
+                    "Y": 195,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "2",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "ButtonWithLabel",
+                    "Name": "button_1",
+                    "X": 335,
+                    "Y": 195,
+                    "Width": 70,
+                    "Height": 70,
+                    "Pressed": "button_pressed_white.png",
+                    "Released": "button_released.png",
+                    "TextId": "1",
+                    "ReleasedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "PressedColor": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "TextRotation": "0"
+                  },
+                  {
+                    "Type": "TextArea",
+                    "Name": "pinDisplayText",
+                    "X": 423,
+                    "Y": 129,
+                    "Width": 185,
+                    "Height": 50,
+                    "TextId": "pinDisplayText",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "AutoSize": true,
+                    "Wildcard1": {
+                      "TextId": "pinDisplayTextBuffer",
+                      "UseBuffer": true,
+                      "BufferSize": 200
+                    }
+                  }
+                ]
+              },
+              {
+                "Type": "Container",
+                "Name": "swipeContainer1Page1",
+                "Width": 1024,
+                "Height": 600,
+                "Components": [
+                  {
+                    "Type": "Image",
+                    "Name": "image1",
+                    "Width": 1024,
+                    "Height": 600,
+                    "LockPosition": true,
+                    "RelativeFilename": "thumb-1920-343973.png"
+                  },
+                  {
+                    "Type": "TextArea",
+                    "Name": "textArea1",
+                    "X": 384,
+                    "Y": 239,
+                    "Width": 257,
+                    "Height": 88,
+                    "TextId": "__SingleUse_4SIL",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "AutoSize": true,
+                    "Wildcard1": {}
+                  },
+                  {
+                    "Type": "TextArea",
+                    "Name": "textArea2",
+                    "X": 402,
+                    "Y": 336,
+                    "Width": 221,
+                    "Height": 50,
+                    "TextId": "__SingleUse_ZB99",
+                    "TextRotation": "0",
+                    "Color": {
+                      "Red": 255,
+                      "Green": 255,
+                      "Blue": 255
+                    },
+                    "AutoSize": true
+                  },
+                  {
+                    "Type": "ScalableImage",
+                    "Name": "scalableImage2",
+                    "X": 493,
+                    "Y": 175,
+                    "Width": 39,
+                    "Height": 50,
+                    "Filename": "lock.png",
+                    "ScalingAlgorithm": "Nearest-neighbor"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction_ent",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_ent"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_ent"
+            }
+          },
+          {
+            "InteractionName": "Interaction_clr",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_clr"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_clr"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_1"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_1"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_2"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_3"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_4"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction5",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_5"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_5"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction6",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_6"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_6"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction7",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_7"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_7"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction8",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_8"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_8"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction9",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_9"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_9"
+            }
+          },
+          {
+            "InteractionName": "ButtonInteraction0",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button_0"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "OnButtonClicked_0"
+            }
+          },
+          {
+            "InteractionName": "unlockscreen_tr",
+            "Trigger": {
+              "Type": "TriggerNone"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "North",
+              "ActionComponent": "unlockedscreen"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "unlockedscreen",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "X": -115,
+            "Width": 1240,
+            "Height": 600,
+            "RelativeFilename": "resized.png"
+          },
+          {
+            "Type": "Button",
+            "Name": "lock_button",
+            "X": 470,
+            "Y": 449,
+            "Width": 70,
+            "Height": 70,
+            "Pressed": "resized_lock_back.png",
+            "Released": "resized_lock.png"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "lock_button"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionWipe",
+              "ScreenTransitionDirection": "South",
+              "ActionComponent": "lockscreen"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "patternscreen",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 1024,
+            "Height": 600,
+            "LockPosition": true,
+            "RelativeFilename": "thumb-1920-343973.png",
+            "Alpha": 100
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1",
+            "X": 364,
+            "Y": 217,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton2",
+            "X": 498,
+            "Y": 217,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton3",
+            "X": 632,
+            "Y": 217,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton4",
+            "X": 364,
+            "Y": 327,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton5",
+            "X": 498,
+            "Y": 327,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton6",
+            "X": 632,
+            "Y": 327,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton7",
+            "X": 364,
+            "Y": 435,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton8",
+            "X": 498,
+            "Y": 435,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton9",
+            "X": 632,
+            "Y": 435,
+            "Width": 29,
+            "Height": 29,
+            "ButtonTrigger": {
+              "Type": "TouchButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "dot.png",
+                "ImagePressed": "dot.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "MyApplication_1",
+    "Resolution": {
+      "Width": 1024,
+      "Height": 600
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "lockscreen",
+    "SelectedStartupLanguage": "GB",
+    "Skin": "Blue",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "24": "LCD24bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 1024,
+        "Height": 600
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD24bpp": {
+        "Id": "LCD24bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../../gcc/Makefile clean && make -f ../../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32H7",
+    "Platform": "m7",
+    "ProjectFile": "../../Riverdi_70STM32H7.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": []
+  },
+  "Version": "4.20.0",
+  "CreatedBy": "4.20.0"
+}

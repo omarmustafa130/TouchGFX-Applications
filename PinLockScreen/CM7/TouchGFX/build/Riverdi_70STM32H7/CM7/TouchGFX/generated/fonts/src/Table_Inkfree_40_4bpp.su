@@ -1,0 +1,2 @@
+Table_Inkfree_40_4bpp.cpp:52:161:void __tcf_0()	0	static
+Table_Inkfree_40_4bpp.cpp:50:26:touchgfx::GeneratedFont& getFont_Inkfree_40_4bpp()	64	static

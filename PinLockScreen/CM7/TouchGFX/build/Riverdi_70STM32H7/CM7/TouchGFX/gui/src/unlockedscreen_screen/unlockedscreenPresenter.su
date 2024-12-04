@@ -1,0 +1,5 @@
+unlockedscreenPresenter.hpp:28:13:unlockedscreenPresenter::~unlockedscreenPresenter()	0	static
+unlockedscreenPresenter.cpp:10:6:virtual void unlockedscreenPresenter::activate()	0	static
+unlockedscreenPresenter.hpp:28:13:virtual unlockedscreenPresenter::~unlockedscreenPresenter()	8	static
+unlockedscreenPresenter.hpp:28:13:virtual void* unlockedscreenPresenter::_ZThn4_N23unlockedscreenPresenterD1Ev()	0	static
+unlockedscreenPresenter.cpp:4:1:unlockedscreenPresenter::unlockedscreenPresenter(unlockedscreenView&)	8	static

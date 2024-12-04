@@ -1,0 +1,2 @@
+Table_ARIALNB_TTF_61_4bpp.cpp:25:176:void __tcf_0()	0	static
+Table_ARIALNB_TTF_61_4bpp.cpp:23:26:touchgfx::GeneratedFont& getFont_ARIALNB_TTF_61_4bpp()	64	static

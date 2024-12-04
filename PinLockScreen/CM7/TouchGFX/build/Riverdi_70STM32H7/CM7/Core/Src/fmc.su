@@ -1,0 +1,16 @@
+fmc.c:157:9:IS42S32800J_ClockEnable	8	static
+fmc.c:181:9:IS42S32800J_Precharge	8	static
+fmc.c:205:9:IS42S32800J_ModeRegConfig	8	static
+fmc.c:238:9:IS42S32800J_TimingConfig	8	static
+fmc.c:259:9:IS42S32800J_RefreshMode	8	static
+fmc.c:283:9:IS42S32800J_RefreshRate	16	static
+fmc.c:115:9:IS42S32800J_Init	16	static
+fmc.c:303:9:IS42S32800J_EnterPowerMode	8	static
+fmc.c:327:9:IS42S32800J_ExitPowerMode	8	static
+fmc.c:351:9:IS42S32800J_Sendcmd	8	static
+fmc.c:388:1:BSP_SDRAM_Write_word	0	static
+fmc.c:394:1:BSP_SDRAM_Read_word	0	static
+fmc.c:400:1:BSP_SDRAM_SingleTest	8	static
+fmc.c:427:6:MX_FMC_Init	40	static
+fmc.c:648:6:HAL_SDRAM_MspInit	240	static
+fmc.c:760:6:HAL_SDRAM_MspDeInit	8	static

@@ -1,0 +1,5 @@
+lockscreenPresenter.hpp:28:13:lockscreenPresenter::~lockscreenPresenter()	0	static
+lockscreenPresenter.cpp:10:6:virtual void lockscreenPresenter::activate()	0	static
+lockscreenPresenter.hpp:28:13:virtual lockscreenPresenter::~lockscreenPresenter()	8	static
+lockscreenPresenter.hpp:28:13:virtual void* lockscreenPresenter::_ZThn4_N19lockscreenPresenterD1Ev()	0	static
+lockscreenPresenter.cpp:4:1:lockscreenPresenter::lockscreenPresenter(lockscreenView&)	8	static

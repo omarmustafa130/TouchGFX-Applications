@@ -1,0 +1,4 @@
+freertos.c:167:6:StartDefaultTask	88	static
+freertos.c:91:6:vApplicationIdleHook	0	static
+freertos.c:106:6:vApplicationStackOverflowHook	0	static
+freertos.c:119:6:MX_FREERTOS_Init	8	static

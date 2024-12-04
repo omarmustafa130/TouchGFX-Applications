@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/MyApplication_1/CM7/Core/Src/freertos.c:91:6:vApplicationIdleHook	1
+C:/TouchGFXProjects/MyApplication_1/CM7/Core/Src/freertos.c:106:6:vApplicationStackOverflowHook	1
+C:/TouchGFXProjects/MyApplication_1/CM7/Core/Src/freertos.c:119:6:MX_FREERTOS_Init	1
+C:/TouchGFXProjects/MyApplication_1/CM7/Core/Src/freertos.c:167:6:StartDefaultTask	4
